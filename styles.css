@@ -1,0 +1,49 @@
+
+section{
+    width: 100%;
+    min-height: 100vh;
+    padding: 60px 0;
+    background: #2f801f;
+    text-align: center;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 42px;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+}
+
+p{
+    color: #000000;
+    font-size: 22px;
+}
+
+hr{
+    color: #000000;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.cont-botones{
+    width: 80%;
+    margin: 30px auto;
+}
+
+button{
+    background: transparent;
+    padding: 14px 30px;
+    margin: 15px 30px;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(48, 45, 224);
+    transition: 2s;
+    cursor: pointer;
+}
+
+button:hover{
+    background: aqua;
+    color: #000;
+    border-radius: 20px;
+}
+
